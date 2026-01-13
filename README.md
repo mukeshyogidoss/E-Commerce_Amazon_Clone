@@ -17,6 +17,8 @@ Features ✨
 
 🗄️ MongoDB as database for storing users, products, and orders
 
+💳 Integrated RazorPay for Online Payment
+
 📧 Email verification using Nodemailer
 
 🚀 React Navigation for smooth screen transitions
@@ -34,11 +36,11 @@ Frontend: React Native (JavaScript), Redux Toolkit, React Navigation, AsyncStora
 
 Backend: Node.js, Express.js, MongoDB, JWT Authentication, Nodemailer (Email Verification)
 
-API Integration: RESTful API using Axios
+API Integration: RESTful API using Axios , RazorPay
 
 Hosting: Render
 
 
 Contact 📬
 
-Created by Mukesh Y — feel free to reach out at mukesh148y@gmail.com
+Created by Mukesh Y — feel free to reach out at mukeshyogidoss@gmail.com
